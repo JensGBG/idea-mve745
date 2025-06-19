@@ -1,5 +1,5 @@
 # READ ME
-This repository contains suggestions for a project in the course MVE745
+This repository contains suggestions for a project in the course MVE745 in study period 1 2025.
 
 ### Links
 
